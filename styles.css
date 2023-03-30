@@ -14,7 +14,7 @@ body {
     width: 330px;
     height: 520px;
     justify-content: flex-start;
-    margin: 150px auto;
+    margin: 100px auto;
 }
 .blue-box {
     display: flex;
